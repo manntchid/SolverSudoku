@@ -1,4 +1,4 @@
-# SolverSudoku
+# Sudoku solver
 A sudoku solver project coded in javascript during last year of maturity Swiss school
 
 1) Download solveursudoku.html
